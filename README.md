@@ -5,6 +5,7 @@ Various machine learning algorithms were implemented to check their accuracy on 
 - Neural Networks
 - K Nearest Neighbours
 - etc.
+
 Furthermore, prior to the application of these machine learning algorithms NLP techniques were applied on the dataset to help with the training. Some of them are:
 - TF-IDF
 - Word Embeddings
