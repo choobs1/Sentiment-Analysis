@@ -10,4 +10,5 @@ Furthermore, prior to the application of these machine learning algorithms NLP t
 - TF-IDF
 - Word Embeddings
 - etc.
+
 However, these algorithms were also tested without any NLP techniques to then compare the usefulness of the techniques. Consequently, this did lead to an improvement in the results provided by the algorithms.
